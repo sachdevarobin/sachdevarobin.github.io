@@ -36,8 +36,7 @@ What I've seen during this beautiful journey is people just start with one thing
  
  
 
-> Talking about an engineer, the way college life grinds him makes him
- `headstrong`.
+> Talking about an engineer, the way college life grinds him makes him headstrong.
 
 ## Don'ts
 
@@ -46,7 +45,7 @@ What I've seen during this beautiful journey is people just start with one thing
  - Never ever take your health for granted, play anykind of outdoor sports atleasr for 1 hour regulary.
  - Never ever try smoking or any other kind of drugs, you'll get addicted and will become difficult to get off this kind of stuff.
  - Don't betray your friends just for your own benifits.
- - 
+
 
 
 [1]: http://jekyllrb.com/docs/frontmatter/
