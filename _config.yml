@@ -1,12 +1,11 @@
 # Site settings
-title: "Robin Sachdeva"
-email: sachdeva282@gmail.com
-description: "A dark blog theme."
-baseurl: "sachdevarobin.github.io"
-url: "robinsachdeva.me"
-title_description: "Observing silently!!"
+title: "Carte Noire"
+email: jacob@jacobtomlinson.co.uk
+description: "A dark blog theme for Jekyll."
+baseurl: ""
+url: "http://carte-noire.jacobtomlinson.co.uk/"
+title_description: "A dark blog theme for Jekyll focusing on a clear reading experience. Large text and a narrow body makes carte noire a gorgeous read. With excellent code snippet support and integrated tools such as AddThis and Disqus giving your Jekyll blog all the functionality your users expect."
 title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
-# https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm
 google_analytics: "UA-20365477-4"
 disqus_account: cartenoire
 github_repository: https://github.com/jacobtomlinson/carte-noire
@@ -14,13 +13,13 @@ addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username: RobinSachdeva13
-github_username:  sachdevarobin
+twitter_username: _jacobtomlinson
+github_username:  jacobtomlinson
 instagram_username: 
 reddit_username: 
-linkedin_link: https://www.linkedin.com/in/robinsachdeva/
-google_plus_link: https://www.linkedin.com/in/robinsachdeva/
-stackoverflow_link: https://www.linkedin.com/in/robinsachdeva/
+linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
+google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
+stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
 xing_link:
 facebook_link:
 
