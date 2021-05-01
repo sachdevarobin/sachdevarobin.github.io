@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      Using thumbnails
-date:       2014-06-08 12:32:18
-summary:    Using thumbnails in your Carte Noire articles.
+date:       2021-05-01 12:32:18
+summary:    College- A four years of Heaven
 categories: jekyll
 thumbnail: jekyll
 tags:
@@ -19,7 +19,8 @@ tags:
 **You** must've read a lot of articles about college life from an eye of a writer but  here you'll see the college life from my eyes, a noooob's eye.
 
 **College** is all about exploring new things. During my college life I've explored more than 6 different domains like marketing, sponsorship, research field, formula car manufacturing, Coding, etc. There is no hard and fast rule to stick to single domain for 4 years(at the you'll find your interest). You're never too late to start with a new thing.
-What I've seen during this beautiful journey is people just start with one thing (taking into consideration the college placements) only i.e  Coding and work with it without seeing their interest (not everyone). I believe there are a lot of unexplored domains that might interest you abd you can start eith that and give it a try atleast. So, here are some viewpoints that i've regarding dos and don'ts during your college life.
+
+What I've seen during this beautiful journey is people just start with one thing (taking into consideration the college placements) only i.e Coding and work with it without seeing their interest (not everyone). I believe there are a lot of unexplored domains that might interest you abd you can start eith that and give it a try atleast. So, here are some viewpoints that i've regarding dos and don'ts during your college life.
 
 ## Do's
  - Make new friends, these are the people who gonna  make your four year a `Heaven`
