@@ -6,8 +6,8 @@ summary:    College- A four years of Heaven
 categories: jekyll
 thumbnail: jekyll
 tags:
- - thumbnails
- - carte noire
+ - College
+ - robin sachdeva
 ---
 
 # College or No College
@@ -32,7 +32,7 @@ What I've seen during this beautiful journey is people just start with one thing
  - Do a lot of internships to get better industry experience (either paid or unpaid).
  - Participate in hackathons and other competitions.
  - Be a good listenter while sitting in a group rather than only speaking out your view points.
- - Placemnent is important and if you've worked well in any of the field, you'll surely get a good one.
+ - Placement is important and if you've worked well in any of the field, you'll surely grab a good one.
  
  
 

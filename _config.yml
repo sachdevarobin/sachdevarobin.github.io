@@ -10,7 +10,7 @@ google_analytics: "UA-20365477-4"
 disqus_account: cartenoire
 github_repository: https://github.com/sachdevarobin
 addthis_id: ra-513c6fa83da6ec67
-post_limit: 1
+post_limit: 5
 
 # Social usernames/URLs
 twitter_username: RobinSachdeva13
@@ -18,7 +18,7 @@ github_username:  sachdevarobin
 instagram_username: 
 reddit_username: 
 linkedin_link: https://www.linkedin.com/in/robinsachdeva
-# google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
+google_link: http://carte-noire.jacobtomlinson.co.uk/
 # stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
 xing_link:
 facebook_link:
