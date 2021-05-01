@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Using thumbnails
+title:      College- A four years of Heaven
 date:       2021-05-01 12:32:18
 summary:    College- A four years of Heaven
 categories: jekyll
@@ -37,7 +37,7 @@ What I've seen during this beautiful journey is people just start with one thing
  
 
 > Talking about an engineer, the way college life grinds him makes him
-> `headstrong`.
+ `headstrong`.
 
 ## Don'ts
 
