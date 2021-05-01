@@ -40,7 +40,7 @@ What I've seen during this beautiful journey is people just start with one thing
 
 ## Don'ts
 
- - Don't igonre your academics, atleast maintain a decent CGPA of 7.0 for the sake of placements.
+ - Don't ignore your academics, atleast maintain a decent CGPA of 7.0 for the sake of placements.
  - Don't just waste your whole college life doing `Bakchodi/Bitching`, otherwise you'll regret this at the end of 4 years.
  - Never ever take your health for granted, play anykind of outdoor sports atleasr for 1 hour regulary.
  - Never ever try smoking or any other kind of drugs, you'll get addicted and will become difficult to get off this kind of stuff.
