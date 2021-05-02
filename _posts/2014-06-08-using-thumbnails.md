@@ -28,7 +28,7 @@ What I've seen during this journey is people just start with one thing (taking i
  - Meet new people regularly and get to know about them and their views.
  - Don't just follow someone else's footsteps, make your own (but ya mentorship is always needed).
  - Interact with your seniors, you'll get to know more about opportunities and activities.
- - you can start a small business or freelance and can earn with it also.
+ - You can start a small business or freelance and can earn with it also.
  - Do a lot of internships to get better industry experience (either paid or unpaid).
  - Participate in hackathons and other competitions.
  - Be a good listener while sitting in a group rather than only speaking out your viewpoints.
