@@ -3,8 +3,8 @@ layout:     post
 title:      College- A four years of Heaven
 date:       2021-05-01 12:32:18
 summary:    College- A four years of Heaven
-categories: jekyll
-thumbnail: jekyll
+categories: personal
+thumbnail: personal
 tags:
  - College
  - robin sachdeva
