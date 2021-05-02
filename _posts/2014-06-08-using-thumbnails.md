@@ -6,7 +6,7 @@ summary:    College- A four years of Heaven
 categories: jekyll
 thumbnail: jekyll
 tags:
- - College
+ 
  - robin sachdeva
 ---
 
