@@ -12,27 +12,27 @@ tags:
 
 # College or No College
 
-    College- A four years of heaven (for a typical engineer).
+    College - Four years of heaven (for a typical engineer).
 
 ## Introduction
 
-**You** must've read a lot of articles about college life from an eye of a writer but  here you'll see the college life from my eyes, a noooob's eye.
+**You** must've read a lot of articles about college life from an eye of a writer but here you'll see this memorable journey from my eyes, a noooob's eye.
 
-**College** is all about exploring new things. During my college life I've explored more than 6 different domains like marketing, sponsorship, research field, formula car manufacturing, Coding, etc. There is no hard and fast rule to stick to single domain for 4 years(at the you'll find your interest). You're never too late to start with a new thing.
+**College** is all about exploring new things. During my college life, I've explored more than 6 different domains like marketing, sponsorship, research field, formula car manufacturing, coding, etc. There is no hard and fast rule to stick to a single domain for 4 years (in the end you'll find your interest). You're never too late to start with a new thing.
 
-What I've seen during this beautiful journey is people just start with one thing (taking into consideration the college placements) only i.e Coding and work with it without seeing their interest (not everyone). I believe there are a lot of unexplored domains that might interest you abd you can start eith that and give it a try atleast. So, here are some viewpoints that i've regarding dos and don'ts during your college life.
+What I've seen during this journey is people just start with one thing (taking into consideration the college placements) only i.e coding and work with it without seeing their interest (not everyone). I believe there are a lot of unexplored domains that might interest you and you can start with that. So, here are some viewpoints that I've regarding dos and don'ts during your college life.
 
 ## Do's
- - Make new friends, these are the people who gonna  make your four year a `Heaven`
+ - Make new friends, these are the people who gonna make your four years `Heaven`
  - Explore, Explore and Explore.
  - Meet new people regularly and get to know about them and their views.
  - Don't just follow someone else's footsteps, make your own (but ya mentorship is always needed).
  - Interact with your seniors, you'll get to know more about opportunities and activities.
- - you can start small business or freelancing and can earn with it also.
+ - you can start a small business or freelance and can earn with it also.
  - Do a lot of internships to get better industry experience (either paid or unpaid).
  - Participate in hackathons and other competitions.
- - Be a good listenter while sitting in a group rather than only speaking out your view points.
- - Placement is important and if you've worked well in any of the field, you'll surely grab a good one.
+ - Be a good listener while sitting in a group rather than only speaking out your viewpoints.
+ - Placement is important and if you've worked well in any of the fields, you'll surely grab a good one.
  
  
 
@@ -40,11 +40,11 @@ What I've seen during this beautiful journey is people just start with one thing
 
 ## Don'ts
 
- - Don't ignore your academics, atleast maintain a decent CGPA of 7.0 for the sake of placements.
- - Don't just waste your whole college life doing `Bakchodi/Bitching`, otherwise you'll regret this at the end of 4 years.
- - Never ever take your health for granted, play anykind of outdoor sports atleasr for 1 hour regulary.
- - Never ever try smoking or any other kind of drugs, you'll get addicted and will become difficult to get off this kind of stuff.
- - Don't betray your friends just for your own benifits.
+ - Don't ignore your academics, at least maintain a decent CGPA of 7.0 for the sake of placements.
+ - Don't just waste your whole college life doing `Bakchodi/Bitching`, otherwise, you'll regret this at the end of 4 years.
+ - Never take your health for granted, play any kind of outdoor sports at least for 1 hour regularly.
+ - Never try smoking or any other kind of drugs, you'll get addicted, and will become difficult to get off this kind of stuff.
+ - Don't betray your friends just for your benefit.
 
 
 
