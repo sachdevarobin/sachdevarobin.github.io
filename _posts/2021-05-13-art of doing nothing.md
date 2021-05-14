@@ -31,12 +31,11 @@ Now, it was dinner time, so I was thinking about what to do for the next 6 hours
 
 > PS : I keep on asking people - Bhai koi movie batade.
 
-So, I tried a new thing to call people who were close to me during college but we've not talked for the past 6 - 7 months (nahi nahi ladayi nahi huyi thi hamari). This was the best thing I thought of doing to keep the closer ones close. The call could be from 30 seconds to 60 minutes. but to me my surprise I called 5 people and the average time was 40 minutes (haan baba I used phone but not to use social media) and after that had some talk with my brother. It felt great to do so.
+So, I tried a new thing to call people who were close to me during college but we've not talked for the past 6 - 7 months (nahi nahi ladayi nahi huyi thi hamari). This was the best thing I thought of doing to keep the closer ones close. The call could be from 30 seconds to 60 minutes. but to my surprise I called 5 people and the average time was 40 minutes (haan bro I used phone but not to use social media) and after that had some talk with my brother. It felt great to do so.
 
 >Okay he added few lines to my blog - I love my bade bhaiya, he is the bessssteeessttt bhaiya. thanks for adopting me. love youuuuuuuuuuu.
 
- So, yeah staying free is also an art especially for our generation. Do give it a try, you surely gonna love it.
-
+**So, yeah staying free is also an art especially for our generation. Do give it a try, you surely gonna love it.**
 
 [1]: http://jekyllrb.com/docs/frontmatter/
 [2]: http://fortawesome.github.io/Font-Awesome/
